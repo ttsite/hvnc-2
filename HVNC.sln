@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{403ADC7A-9D4D-4D79-8C48-661ADCFF73E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "Stub\Stub.csproj", "{835BCF68-5F0D-428B-BF86-F859A34555D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVNCStub", "Stub\HVNCStub.csproj", "{835BCF68-5F0D-428B-BF86-F859A34555D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
